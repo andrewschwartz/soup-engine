@@ -51,6 +51,10 @@ All thirteen, one frame, straight off the card.
 > names are shorthand for the films they're based on, not exact copies.
 > All trademarks belong to their owners.
 
+> 📷 **Canon EOS 50D.** A community port by
+> [@rebelt2i](https://github.com/rebelt2i) lives on its own branch,
+> [`50d`](https://github.com/jiijii0/soup-engine/tree/50d).
+
 <br>
 
 ---
